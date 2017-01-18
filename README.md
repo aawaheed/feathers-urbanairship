@@ -7,7 +7,7 @@
 [![Download Status](https://img.shields.io/npm/dm/feathers-urbanairship.svg?style=flat-square)](https://www.npmjs.com/package/feathers-urbanairship)
 
 > Adds Urban Airship capability to the feathers application (service)
-
+#### Inspired from [FeathersJS/sendgrid](https://github.com/feathersjs/feathers-sendgrid)
 ## Installation
 
 ```
@@ -17,6 +17,7 @@ npm install feathers-urbanairship --save
 ## Documentation
 
 Please refer to the [feathers-urbanairship documentation](http://docs.feathersjs.com/) for more details.
+
 Please refer to the Urban Airship documentation [Urban Airship documentation](http://docs.urbanairship.com/index.html) for more details.
 ## Complete Example
 
