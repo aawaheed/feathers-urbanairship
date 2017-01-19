@@ -1,7 +1,7 @@
 {
   "name": "feathers-urbanairship",
   "description": "Adds Urban Airship capability to the feathers application (service)",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/aawaheed/feathers-urbanairship",
   "main": "lib/",
   "keywords": [
